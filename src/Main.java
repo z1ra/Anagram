@@ -9,6 +9,7 @@ public class Main {
         System.out.print(Arrays.toString(ss));
        for (int i = 0; i<ss.length; i++){
            StringBuffer ch = new StringBuffer(ss[i]);
+           //gg
        }
 
     }
